@@ -7,12 +7,14 @@ import { ChartDemoComponent } from './chart-demo/chart-demo.component';
 
 import {Chart} from 'chart.js';
 import { registerables } from 'chart.js';
+import { MultiBarColumnComponent } from './multi-bar-column/multi-bar-column.component';
 Chart.register(...registerables);
 
 @NgModule({
   declarations: [
     AppComponent,
-    ChartDemoComponent
+    ChartDemoComponent,
+    MultiBarColumnComponent
   ],
   imports: [
     BrowserModule,
