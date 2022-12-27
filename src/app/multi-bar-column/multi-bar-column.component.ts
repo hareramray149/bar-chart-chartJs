@@ -50,14 +50,12 @@ export class MultiBarColumnComponent {
           scales: {
             x: {
                 grid: {
-                  offset: true,
-                  stacked: true
+                  offset: true
                 }
             },
             y: {
               grid: {
-                offset: true,
-                stacked: true
+                offset: true
               }
           }
         }
