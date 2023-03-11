@@ -1,6 +1,17 @@
 This folder contains Multi Bar column chart.
 
-Step - 1 :  <br/>
-Step - 2 :  <br/>
-Step - 3 :  <br/>
-Step - 4 :  <br/>
+create application
+
+Step - 1 : npm i chart.js 
+https://www.npmjs.com/package/chart.js
+
+Step -2 : 
+add
+	import {Chart} from 'chart.js';
+	import { registerables } from 'chart.js';
+	Chart.register(...registerables);
+
+in app module
+
+Step - 3 :
+ add code for chart
