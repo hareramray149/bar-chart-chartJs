@@ -4,7 +4,7 @@ This folder contains Multi Bar column chart.
 
 create application
 
-Step - 1 : npm i chart.js 
+Step - 1 : npm i chart.js <br/>
 https://www.npmjs.com/package/chart.js
 
 Step -2 : 
