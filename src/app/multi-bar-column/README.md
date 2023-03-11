@@ -1,3 +1,5 @@
+<h1>Multi column bar chart.</h1>
+
 This folder contains Multi Bar column chart.
 
 create application
